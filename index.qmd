@@ -6,7 +6,7 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-# Master Security
+# Master Infrastructure-as-Code
 
 We base our Initiative: Master Infrastructure-as-Code on Planning a [Minimum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
 
